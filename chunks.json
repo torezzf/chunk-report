@@ -1,12 +1,14 @@
 {
   "version": 1,
-  "issued_at": 1777128364,
+  "issued_at": 1777211418,
   "expires_at": 0,
   "hwid_hashes": [
-    "DjdcbG_l9myTBHBpN0SDY5cULKmEkbYQROWc6FHJVHU"
+    "DjdcbG_l9myTBHBpN0SDY5cULKmEkbYQROWc6FHJVHU",
+    "8R_uuDcslK2v-umXyJzSbQ1gYN6dHcQQ84_yqcGI86U"
   ],
-  "signature": "hNVHEDRndijGN5UofjRvHfXZPMuLf3t8kNyQmqKxHGidboFH5NQixLNvG7SBV5OIHha8gZ7Odq4hoEgg7JWzDw==",
+  "signature": "+6z55+hz+407HeB3phhL0UXUQkcgwywJw10ylyYJLDK9q6B+tgxeHZkku94YghPRGa9jaaEe01lWPJRtnBrMDA==",
   "_notes": {
-    "DjdcbG_l9myTBHBpN0SDY5cULKmEkbYQROWc6FHJVHU": "GENERALSKIY"
+    "DjdcbG_l9myTBHBpN0SDY5cULKmEkbYQROWc6FHJVHU": "GENERALSKIY",
+    "8R_uuDcslK2v-umXyJzSbQ1gYN6dHcQQ84_yqcGI86U": "PAPATrollinga"
   }
 }

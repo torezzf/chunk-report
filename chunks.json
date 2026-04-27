@@ -1,16 +1,18 @@
 {
   "version": 1,
-  "issued_at": 1777276584,
+  "issued_at": 1777282791,
   "expires_at": 0,
   "hwid_hashes": [
     "DjdcbG_l9myTBHBpN0SDY5cULKmEkbYQROWc6FHJVHU",
     "8R_uuDcslK2v-umXyJzSbQ1gYN6dHcQQ84_yqcGI86U",
-    "QQxuAa042eUPBtZRmXnoVuZDa7Uot7w84PZC8vgC6PI"
+    "QQxuAa042eUPBtZRmXnoVuZDa7Uot7w84PZC8vgC6PI",
+    "3PnB1tDN0GByAT-Leq3bXKqfcEgG9C66oZYMsBjQbPA"
   ],
-  "signature": "kUufwonF1gUd5kJrm9u+SDtoPe9OnBeOP4SJGkFYjyUlEaygTupazRgEF3VYK5B3KTjMkUxfGp5ECzHwNRsKBg==",
+  "signature": "TC1n2VHbDP3AEIzNYX/bGo2bihkvWeRdg7VvdIWB/oyvoayYmNHqHnQyb+wpLaYE+l5xo5hO0MmS9Et8mw1XAA==",
   "_notes": {
     "DjdcbG_l9myTBHBpN0SDY5cULKmEkbYQROWc6FHJVHU": "GENERALSKIY",
     "8R_uuDcslK2v-umXyJzSbQ1gYN6dHcQQ84_yqcGI86U": "PAPATrollinga",
-    "QQxuAa042eUPBtZRmXnoVuZDa7Uot7w84PZC8vgC6PI": "admin"
+    "QQxuAa042eUPBtZRmXnoVuZDa7Uot7w84PZC8vgC6PI": "admin",
+    "3PnB1tDN0GByAT-Leq3bXKqfcEgG9C66oZYMsBjQbPA": "ph1"
   }
 }
